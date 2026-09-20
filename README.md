@@ -19,7 +19,7 @@
 
 ![Результат сканирования](Screen/13.png)
 
-3. exploit/unix/irc/unreal_ircd_3281_backdoor - Получение доступа с правами root 
+3. exploit/unix/irc/unreal_ircd_3281_backdoor  https://www.exploit-db.com/exploits/16922 - Получение доступа с правами root 
 
 ![Результат сканирования](Screen/14.png)
 
