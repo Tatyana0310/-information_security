@@ -5,7 +5,7 @@
 
 Запущены две ВМ : Metasploitable и Ubutu (с которой будет осуществляться сканирование).
 
-![Результат сканирования](11.png)
+![Результат сканирования](Screen/11.png)
 
 Разрешенные сетевые службы: ftp (на 21 и 2121 портах), ssh , telnet, smtp, domain, http (порты 80 и 8180) rpcbind, netbios-ssn, exec, login, shell, java-rmi, bindshell, nfs, mysql, postgresql, vnc, X11, irc, ajp13.
 
@@ -13,15 +13,15 @@
 
 1. exploit/unix/ftp/vsftpd_234_backdoor
  
-![Результат сканирования](12.png)
+![Результат сканирования](Screen/12.png)
 
 2. exploit/linux/postgres/postgres_payload
 
-![Результат сканирования](13.png)
+![Результат сканирования](Screen/13.png)
 
 3. exploit/unix/irc/unreal_ircd_3281_backdoor
 
-![Результат сканирования](14.png)
+![Результат сканирования](Screen/14.png)
 
 
 
