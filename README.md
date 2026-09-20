@@ -15,7 +15,13 @@
  
 ![Результат сканирования](12.png)
 
-2. 
+2. exploit/linux/postgres/postgres_payload
+
+![Результат сканирования](13.png)
+
+3. exploit/unix/irc/unreal_ircd_3281_backdoor
+
+![Результат сканирования](14.png)
 
 
 
