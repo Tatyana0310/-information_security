@@ -11,7 +11,7 @@
 
 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
-1. exploit/unix/ftp/vsftpd_234_backdoor - Получение доступа с правами root
+1. exploit/unix/ftp/vsftpd_234_backdoor https://www.exploit-db.com/exploits/17491 - Получение доступа с правами root
  
 ![Результат сканирования](Screen/12.png)
 
