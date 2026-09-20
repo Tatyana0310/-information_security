@@ -1,4 +1,4 @@
-Домашнее задание по занятости " Название занятия" -Фамилия и имя студента
+Домашнее задание по занятости «Уязвимости и атаки на информационные системы» - Фабричникова Татьяна Александровна
 
 ## Задание 1
 
@@ -11,15 +11,15 @@
 
 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
-1. exploit/unix/ftp/vsftpd_234_backdoor
+1. exploit/unix/ftp/vsftpd_234_backdoor - Получение доступа с правами root
  
 ![Результат сканирования](Screen/12.png)
 
-2. exploit/linux/postgres/postgres_payload
+2. exploit/linux/postgres/postgres_payload - Получение доступа с правами postgres
 
 ![Результат сканирования](Screen/13.png)
 
-3. exploit/unix/irc/unreal_ircd_3281_backdoor
+3. exploit/unix/irc/unreal_ircd_3281_backdoor - Получение доступа с правами root 
 
 ![Результат сканирования](Screen/14.png)
 
