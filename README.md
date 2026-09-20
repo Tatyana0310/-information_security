@@ -15,7 +15,7 @@
  
 ![Результат сканирования](Screen/12.png)
 
-2. exploit/linux/postgres/postgres_payload - Получение доступа с правами postgres
+2. exploit/linux/postgres/postgres_payload  https://www.exploit-db.com/exploits/46813 - Получение доступа с правами postgres
 
 ![Результат сканирования](Screen/13.png)
 
